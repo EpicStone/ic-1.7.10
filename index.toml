@@ -17,12 +17,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
-hash = "ec87abd8e5ab06cd3b6b3917f383c14ed32180d46f7b4049fab87271be5456b6"
+hash = "f68f94165af6343669c5f3a07a47179055ed63ad832be694666e1695051f0c3b"
 metafile = true
 
 [[files]]
 file = "mods/easy-home-warp.pw.toml"
-hash = "7583f2f2431f062145345f41d36f1c092cb01a6721233d29887ec5187d2f396e"
+hash = "0e4e4c3c422801d25f3497c995016e451dc450d27a80faad04c592fbaadbe575"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "c849632fd2348967eb369eaecd93f65de371cd9110650f828f995a4929166ae3"
+hash = "249a426c0e7b86b0fb22be99c328e2db9ece689561018257b3fa6f03927defca"
 metafile = true
 
 [[files]]
@@ -127,5 +127,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9e245a84a817c077c5450708327b3e9959cf810004fd9a2735cd575678cd96ab"
+hash = "87a03970977102ac1c3caeaa8abfb95921f165bb9184d7f45f492f68ede0d8c2"
 metafile = true
