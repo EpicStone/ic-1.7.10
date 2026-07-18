@@ -21,11 +21,6 @@ hash = "f68f94165af6343669c5f3a07a47179055ed63ad832be694666e1695051f0c3b"
 metafile = true
 
 [[files]]
-file = "mods/easy-home-warp.pw.toml"
-hash = "0e4e4c3c422801d25f3497c995016e451dc450d27a80faad04c592fbaadbe575"
-metafile = true
-
-[[files]]
 file = "mods/evilcraft.pw.toml"
 hash = "2bd26c9bc4e05bf05f8f3a5dfcacbc4b7ee45417a82a5f5ad7a294a660c22e9b"
 metafile = true
@@ -56,6 +51,11 @@ hash = "a961f4745299a1b16ba7ea3d697c704b2fb1170bd4507dd56f646aafade7afa2"
 metafile = true
 
 [[files]]
+file = "mods/forgeservertools.pw.toml"
+hash = "9a41bd37e466a60c03f5508049129acbfe5338e522ed0f4ceb852e31a9e8c1b9"
+metafile = true
+
+[[files]]
 file = "mods/ic2-classic.pw.toml"
 hash = "2e850dfa3a0c55c904d1383b28ccaeca660ac4f3bcccf15319fca8227c3d576b"
 metafile = true
@@ -76,8 +76,8 @@ hash = "365d0ae319b5bfff4b50ab29b3a8590a9203aebd4ead94f7344e18c4337ae886"
 metafile = true
 
 [[files]]
-file = "mods/nearly-enough-items-nei.pw.toml"
-hash = "0e4ebb80af72862e23745dddcaa6fcdd4530336e3a667a7547f81e5f733ec8ff"
+file = "mods/notenoughitems.pw.toml"
+hash = "920d279a70b25cad68c4f1c1992f8d4562e2d648402e2f9df013d078d62eae71"
 metafile = true
 
 [[files]]
@@ -118,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/railcraft.pw.toml"
 hash = "5614fb3ab583f05339d85c124289c167ee3f7b761fed208a30fc7e8a3d26441a"
+metafile = true
+
+[[files]]
+file = "mods/servertools-teleport.pw.toml"
+hash = "8878866ef54fc7063827fae19a8ed937a62ac826cd2bc6290f39322257624270"
 metafile = true
 
 [[files]]

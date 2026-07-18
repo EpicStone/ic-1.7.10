@@ -1,0 +1,13 @@
+name = "ServerTools-CORE"
+filename = "ServerTools-CORE-1.7.10-2.2.0.79.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "5a15a7d5006a02570c12d8b275f188ff1a9a7809"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2225866
+project-id = 64744

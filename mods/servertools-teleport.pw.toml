@@ -1,0 +1,13 @@
+name = "ServerTools-TELEPORT"
+filename = "ServerTools-TELEPORT-1.7.10-2.2.0.13.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "7b818d9b7c9cd0fab7cb7c250041f9d9273c6142"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2228514
+project-id = 220715
