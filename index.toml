@@ -126,6 +126,11 @@ hash = "74f55c146b49ee61c6d6f9bb035618d936c34c54caeabecbafac6db990822e79"
 metafile = true
 
 [[files]]
+file = "mods/waila.pw.toml"
+hash = "1ce389a8d9488dd7d37490c1498d10412b7430b18cc0faa28f47afc9cf896b57"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "87a03970977102ac1c3caeaa8abfb95921f165bb9184d7f45f492f68ede0d8c2"
 metafile = true
