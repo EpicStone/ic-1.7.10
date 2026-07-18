@@ -1,0 +1,131 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/baubles.pw.toml"
+hash = "dcaa054cc8de3b6b10f4e7b35b1079e90983765348559761b0d357f8f5177856"
+metafile = true
+
+[[files]]
+file = "mods/buildcraft.pw.toml"
+hash = "28825657e6a5260933662ff7e9e6cf81e562dc630a382fea77b23839556897e8"
+metafile = true
+
+[[files]]
+file = "mods/codechickencore.pw.toml"
+hash = "877e37dd1a4313b52e1d40d74fe9abc89658f8cf172263b0f33d0feb15db89b6"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "ec87abd8e5ab06cd3b6b3917f383c14ed32180d46f7b4049fab87271be5456b6"
+metafile = true
+
+[[files]]
+file = "mods/easy-home-warp.pw.toml"
+hash = "7583f2f2431f062145345f41d36f1c092cb01a6721233d29887ec5187d2f396e"
+metafile = true
+
+[[files]]
+file = "mods/evilcraft.pw.toml"
+hash = "2bd26c9bc4e05bf05f8f3a5dfcacbc4b7ee45417a82a5f5ad7a294a660c22e9b"
+metafile = true
+
+[[files]]
+file = "mods/foamfix-reforged.pw.toml"
+hash = "e60af00967db6c679202c2203769935931cb2d5ffbee5e2bd4c64109cf7974d4"
+metafile = true
+
+[[files]]
+file = "mods/forestry.pw.toml"
+hash = "e2a1810cc0353e445c9e210f82f355e49f9d440aec1165b94e1e0248f3b322da"
+metafile = true
+
+[[files]]
+file = "mods/forge-multi-part.pw.toml"
+hash = "9681e0415a681994c0e6455828160ac82395fb48c1ccec3a1c5ff92af93c1be4"
+metafile = true
+
+[[files]]
+file = "mods/forge-relocation-fmp-plugin.pw.toml"
+hash = "77bb5648462430529e91ad93b0f9924b4161d9cd9bcc0d29568d63186915d2bf"
+metafile = true
+
+[[files]]
+file = "mods/forge-relocation.pw.toml"
+hash = "a961f4745299a1b16ba7ea3d697c704b2fb1170bd4507dd56f646aafade7afa2"
+metafile = true
+
+[[files]]
+file = "mods/ic2-classic.pw.toml"
+hash = "2e850dfa3a0c55c904d1383b28ccaeca660ac4f3bcccf15319fca8227c3d576b"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "9fdb47ec551d7019502d5c94dee80b3f45361cf2df6070fe93476513d1f1cefe"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "c849632fd2348967eb369eaecd93f65de371cd9110650f828f995a4929166ae3"
+metafile = true
+
+[[files]]
+file = "mods/mrtjpcore.pw.toml"
+hash = "365d0ae319b5bfff4b50ab29b3a8590a9203aebd4ead94f7344e18c4337ae886"
+metafile = true
+
+[[files]]
+file = "mods/nearly-enough-items-nei.pw.toml"
+hash = "0e4ebb80af72862e23745dddcaa6fcdd4530336e3a667a7547f81e5f733ec8ff"
+metafile = true
+
+[[files]]
+file = "mods/project-red-compat.pw.toml"
+hash = "988aa1be6d8d25c5386d3ecb725360b1d97f9acf78b512a1c2e8d60311f5f532"
+metafile = true
+
+[[files]]
+file = "mods/project-red-core.pw.toml"
+hash = "e2c2abf9b9bb95ef5cf4f7c1a82d270c407657509831543f07e67eb3ac833316"
+metafile = true
+
+[[files]]
+file = "mods/project-red-expansion.pw.toml"
+hash = "bdc4bacc7fe9a77f7ce68c8d5f51c90d6071a28aefa2a8291f678e9cb005164c"
+metafile = true
+
+[[files]]
+file = "mods/project-red-exploration.pw.toml"
+hash = "d164fd75445b5347e0a8b6adf8e1194da45db884768f5093db0383e0a2536077"
+metafile = true
+
+[[files]]
+file = "mods/project-red-fabrication.pw.toml"
+hash = "8a4d94a0998498240d5d7a082cb286dec3a95d888e7ec4348862af5d27261d6c"
+metafile = true
+
+[[files]]
+file = "mods/project-red-illumination.pw.toml"
+hash = "04fd6d7217ed863f8cea08283babf5e12ab68bb8ac23697d02331e602eb11ee5"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.pw.toml"
+hash = "7b9ecd33cd38232420ab71684a943538c8fb04aee92f4fe20d6878d749eaf61b"
+metafile = true
+
+[[files]]
+file = "mods/railcraft.pw.toml"
+hash = "5614fb3ab583f05339d85c124289c167ee3f7b761fed208a30fc7e8a3d26441a"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "74f55c146b49ee61c6d6f9bb035618d936c34c54caeabecbafac6db990822e79"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "9e245a84a817c077c5450708327b3e9959cf810004fd9a2735cd575678cd96ab"
+metafile = true

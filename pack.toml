@@ -1,0 +1,13 @@
+name = "ic-1.7.10"
+author = "epic_st"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fc993139ae76b7fa432c0dce90076313dc1277e306317472423029dce474ab9c"
+
+[versions]
+forge = "10.13.4.1614"
+minecraft = "1.7.10"

@@ -1,0 +1,13 @@
+name = "FoamFix (Reforged)"
+filename = "FoamFix-1.7.10-universal-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b0978b90f50b2367cc65520b2d7e5f7a0dcf6aab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8198386
+project-id = 1565124

@@ -1,0 +1,13 @@
+name = "Easy Home Warp"
+filename = "easyHomeWarp-2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4597edc2b6fa27a5d3d55417c56b380cebbf2dd5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2820012
+project-id = 344099
